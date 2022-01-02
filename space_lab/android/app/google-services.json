@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "699431674622",
+    "project_id": "audio-stories-8ac5c",
+    "storage_bucket": "audio-stories-8ac5c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:699431674622:android:a6585424e31e76cda97baf",
+        "android_client_info": {
+          "package_name": "com.example.space_lab"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "699431674622-fvlpcio08abr5o21ps6f5656mqmddsfr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDR6exNC4MHVJxVJppO9G_tNsNIPeLJPE8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "699431674622-fvlpcio08abr5o21ps6f5656mqmddsfr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
